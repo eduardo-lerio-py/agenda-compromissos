@@ -1,6 +1,3 @@
-# agenda-compromissos
-Recebe compromissos e os guarda em um arquivo.
-
 # Agenda de Compromissos
 
 Programa de terminal em Python para gerenciar compromissos: adicionar, listar (todos ou só os futuros) e remover. Os dados ficam salvos em arquivo, então não se perdem ao fechar o programa.
